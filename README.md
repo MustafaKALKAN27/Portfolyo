@@ -1,3 +1,24 @@
+# Portfolyo Web Sitem
+# Kullanılan Kütüphaneler
+
+    "@tailwindcss/typography": "^0.5.0",
+    "framer-motion": "^5.5.5",
+    "graphql": "^16.2.0",
+    "graphql-request": "^3.7.0",
+    "next": "12.0.7",
+    "next-themes": "^0.0.15",
+    "nextjs-progressbar": "^0.0.13",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-typical": "^0.1.3"
+
+
+ -Projelerimi hygraph ile hazırladım. Hygraph tan aldığım API ile her bir proje içeriğini siteme çektim.
+
+ <img src="screen.gif">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,3 +59,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Portfolyo
